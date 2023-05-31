@@ -1,0 +1,7 @@
+.custom_link:nth-child(1):hover{
+    border-bottom-color: green !important;
+}
+.custom_link:nth-child(2):hover{
+    border-bottom-color: blue !important;
+}
+
